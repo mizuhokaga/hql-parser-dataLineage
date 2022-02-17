@@ -1,0 +1,5 @@
+
+:
+java:S1165"Make this "errors" field final.(ÔŠéìıÿÿÿÿ
+|
+java:S1319 "fThe type of "errors" should be an interface such as "List" rather than the implementation "ArrayList".(®Ÿ¿

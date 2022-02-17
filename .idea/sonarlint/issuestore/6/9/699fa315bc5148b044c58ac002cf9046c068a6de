@@ -1,0 +1,10 @@
+
+?
+java:S1948""Make "nodes" private or transient.(®―Η8φ„ρπ/
+D
+java:S1948""Make "edges" private or transient.(μμ£θύÿÿÿÿ8χ„ρπ/
+n
+java:S1104"QMake nodes a static final constant or non-public and provide accessors if needed.(®―Η8ώΧ¬π/
+s
+java:S1104"QMake edges a static final constant or non-public and provide accessors if needed.(μμ£θύÿÿÿÿ8ώΧ¬π/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Βψ¨ϋÿÿÿÿ

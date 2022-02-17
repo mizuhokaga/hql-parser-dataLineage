@@ -1,0 +1,11 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Í”Ò¿
+m
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Þ¹Öáþÿÿÿÿ
+I
+java:S1135‘"2Complete the task associated to this TODO comment.(‘Ð—²
+n	java:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(†ËùÙ
+m	java:S127_"XRefactor the code in order to not assign to this loop counter from within the loop body.(É…ªÂ
+m	java:S127n"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡Ä—ƒ
+n	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
